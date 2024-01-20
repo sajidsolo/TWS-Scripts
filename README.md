@@ -26,7 +26,7 @@ This script is the **MAIN** script for the game which gives the player +1 second
 
 
 
-Can be Found in Releases or Repo Flies
+Can be Found in Releases 
 
 # Leaderstats 
 This Lua script is required and without it the main script will not work.
@@ -47,7 +47,7 @@ The leaderstats script adds a leaderboard and also a data store service which sa
 
 
 
-Can be Found in Releases or Repo Flies
+Can be Found in Releases 
 
 
 
