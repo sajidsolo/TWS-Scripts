@@ -29,8 +29,8 @@ This script is the **MAIN** script for the game which gives the player +1 second
 Can be Found in Releases 
 
 # Leaderstats 
-This Lua script is required and without it the main script will not work.
-The leaderstats script adds a leaderboard and also a data store service which saves players time spent on the game.
+This Lua script is required and without it the main script will not work. So think its more of a *API* or a *Core* which allow the main script to work.
+The leaderstats script adds a leaderboard and also a data store service which saves players time spent on the game. 
 
 
 
